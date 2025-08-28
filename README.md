@@ -59,3 +59,7 @@ python cli.py --schema
 - 'agent_state.py' - State definition for graph
 - 'agent_nodes.py' - Workflow nodes
 - 'bq_client.py' - BigQuery client
+
+
+## License
+This is for assessment purposes only. This cannot be used commercially.
